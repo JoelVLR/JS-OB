@@ -3,7 +3,6 @@ let alturacm=166;
 
 //altura en Metros
 let alturaM=1.66;
-
 //peso en Kg
 let pesoKg=57.234;
 //Redondeo de la altura hacia arriba

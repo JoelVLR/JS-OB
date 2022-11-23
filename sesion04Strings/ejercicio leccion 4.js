@@ -13,4 +13,4 @@ console.log(estudiante.length)
 console.log(estudiantesinespacio.length)
  //una variable booleana que diga si el nombre esta contenido en la variable estudiante
 let estudianteboolean=estudiante;
-console.log(estudiante.includes(`Joel`,`Lopez`));
+console.log(estudianteboolean.includes(`Joel`,`Lopez`));
