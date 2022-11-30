@@ -19,5 +19,5 @@ class Estudiante {
 
 
 
-const estudiante = new Estudiante("Joel","Javascript, HTML, CSS")
+const estudiante = new Estudiante("Joel",["Javascript", "HTML", "CSS"])
 console.log(estudiante.obtenDatos())
