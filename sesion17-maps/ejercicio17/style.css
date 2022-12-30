@@ -1,0 +1,13 @@
+#map {
+    height: 400px; 
+    width: 100%; 
+  }
+#titulo {
+  height:100px;
+  width: 200px;
+  text-align:center;
+  padding-left:40%;
+  padding-right:40%;
+  text-decoration-line: underline;
+  text-decoration-color:black;
+}
